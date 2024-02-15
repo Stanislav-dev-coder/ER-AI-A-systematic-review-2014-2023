@@ -74,22 +74,12 @@ An ML or classification model’s quality and efficacy are assessed using perfor
 ![](https://i.imgur.com/Z9zMgSw.png)
 ### 5. Метод обзора
 В настоящем систематическом обзоре использовались рекомендации по составлению отчетов для систематических обзоров и мета-анализов (PRISMA) [35]. Протокол обзора включает стратегии поиска, критерии отбора, стандарты отбора и извлечения данных. Подробности стратегий поиска, отбора и извлечения данных рассматриваются в следующих подразделах:
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Таблица с римскими цифрами</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: left;
-        }
-    </style>
 </head>
 <body>
 
@@ -291,20 +281,6 @@ An ML or classification model’s quality and efficacy are assessed using perfor
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th, td {
-            border: 1px solid #dddddd;
-            text-align: left;
-            padding: 8px;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
 </head>
 <body>
     <h2>Обзор исследований по распознаванию эмоций</h2>

@@ -291,7 +291,6 @@ An ML or classification model’s quality and efficacy are assessed using perfor
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Обзор исследований по распознаванию эмоций</title>
     <style>
         table {
             border-collapse: collapse;

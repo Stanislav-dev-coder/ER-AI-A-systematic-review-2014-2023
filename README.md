@@ -1,6 +1,5 @@
+# Любительский перевод статьи "Emotion recognition and artificial intelligence: A systematic review (2014–2023) and research recommendations". **Ссылка на статью:** https://www.sciencedirect.com/science/article/pii/S1566253523003354?via%3Dihub
 # Распознавание эмоций и искусственный интеллект: Систематический обзор (2014-2023 гг.) и рекомендации по исследованиям
-Любительский перевод статьи "Emotion recognition and artificial intelligence: A systematic review (2014–2023) and research recommendations". **Ссылка на статью:** https://www.sciencedirect.com/science/article/pii/S1566253523003354?via%3Dihub
-
 ### Содержание
 [Аннотация](#аннотация)
 1. [Введение](#1-введение)
